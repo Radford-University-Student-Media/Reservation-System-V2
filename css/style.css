@@ -1,0 +1,505 @@
+/* Begin Main Page */
+		
+body{
+
+	text-align: center;
+	background-color: #FCFFFF;
+	
+}
+
+A:link {
+
+	color: #3C23D7;
+	text-decoration: none;
+
+}
+
+A:visited {
+	
+	color: #880088;
+	text-decoration: none;
+	
+}
+
+A:active {
+	
+	color: #880088;
+	text-decoration: none;
+	
+}
+
+A:hover {
+	
+	color: #FF0000;
+	text-decoration: underline;
+
+}
+
+/* Begin Setup CSS */
+
+table.setup{
+
+	width: 650px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+/* End Setup CSS */
+
+table.main{
+	
+	border-width: 1px;
+	border-spacing: 0px;
+	border-style: solid;
+	border-color: black;
+	border-collapse: collapse;
+	background-color: #F5F5F5;
+	width: 750px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+div.footer{
+	border-width: 1px;
+	border-spacing: 0px;
+	border-style: solid;
+	border-color: black;
+	border-collapse: collapse;
+	background-color: #F5F5F5;
+	width: 748px;
+	margin-left: auto;
+	margin-right: auto;
+	border-top: 0px;
+}
+
+/* End Main Page */
+
+/* Begin Navigation */
+
+td.navi{
+	
+	padding-top: 3px;
+	padding-bottom: 3px;
+	background-color: #070066;
+	color: #FFFFFF;
+	text-align: center;
+	
+}
+
+td.adminnaviouter{
+
+	background-color: #070066;
+	text-align: center;
+	
+}
+
+table.adminnavi{
+
+	border-top: 1px solid black;
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+	margin-left: auto;
+	margin-right: auto;
+	min-width: 650px;
+
+}
+
+td.adminnaviinner{
+	
+	padding-top: 2px;
+	padding-bottom: 3px;
+	background-color: #002C66;
+	color: #FFFFFF;
+	text-align: center;
+	
+}
+
+A:link.navi {
+
+	color: #FFFFFF;
+	text-decoration: none;
+	font-weight: bold;
+
+}
+
+A:visited.navi {
+	
+	color: #BBBBBB;
+	text-decoration: none;
+	font-weight: bold;
+	
+}
+
+A:active.navi {
+	
+	color: #BBBBBB;
+	text-decoration: none;
+	font-weight: bold;
+	
+}
+
+A:hover.navi {
+	
+	color: #AA0000;
+	text-decoration: underline;
+	font-weight: bold;
+
+}
+
+/* End Navigation */
+
+/* Begin Content */
+
+td.content{
+
+	height: 300px;
+	text-align: center;
+	vertical-align: top;
+	
+}
+
+td.header{
+
+	background-color: #64002C;
+	color: #FFFFFF;
+	font-weight: bold;
+	text-align: center;
+
+}
+
+td.topaligncell{
+
+	background-color: #C7D2EA;
+	vertical-align: text-top;
+
+}
+
+td.centeredcell{
+
+	background-color: #C7D2EA;
+	text-align: center;
+
+}
+
+td.centeredcellbold{
+
+	background-color: #C7D2EA;
+	font-weight: bold;
+	text-align: center;
+
+}
+
+/* Begin Login */
+
+table.login{
+
+	width: 300px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+/* End Login */
+
+/* Begin Home */
+
+div.messageoutter{
+
+	width:65%;
+	max-width: 490px;
+	max-height: 5em;
+	margin-left: auto;
+	margin-right: auto;
+	border: 2px dashed black;
+	margin: 5px;
+	overflow: auto;
+
+}
+
+div.priority1message{
+
+	width: 96%;
+	background-color: #2986FF;
+	color: FCFFFF;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+	overflow: auto;
+	white-space:pre-wrap;
+	
+
+}
+
+div.priority2message{
+
+	width: 96%;
+	background-color: #FF3729;
+	color: FCFFFF;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+	overflow: auto;
+	white-space:pre-wrap;
+
+}
+
+table.pickuptimes{
+
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+table.myequip{
+
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+td.myequipPending{
+
+	background-color: #C7D2EA;
+	text-align: center;
+	font-weight: bold;
+	
+}
+
+td.myequipApproved{
+	
+	background-color: #C7D2EA;
+	text-align: center;
+	font-weight: bold;
+	color: #005500;
+}
+
+td.myequipChecked-Out{
+
+	background-color: #C7D2EA;
+	text-align: center;
+	font-weight: bold;
+	color: #005500;
+	
+}
+
+td.myequipChecked-In{
+
+	background-color: #C7D2EA;
+	text-align: center;
+	font-weight: bold;
+	color: #005500;
+	
+}
+
+td.myequipDenied{
+	
+	background-color: #C7D2EA;
+	text-align: center;
+	font-weight: bold;
+	color: #FF0000;
+
+}
+
+/* End Home */
+
+/* Begin Our Equipment*/
+
+table.ourequip{
+
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+/* End Our Equipment */
+
+/* Begin My Account */
+
+table.myaccount{
+
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+/* End My Account */
+
+/* Begin Equipment Info */
+
+table.equipinfo{
+
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+/* End Equipment Info */
+
+/* Begin User Make Reservation */
+
+table.reservation{
+
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+/* End User Make Reservation*/
+
+/* Begin View Schedule */
+
+table.viewsched{
+
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+/* End View Schedule */
+
+/* Begin Add Equipment */
+
+table.newequip{
+
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+/* End Add Equipment */
+
+/* Begin New User */
+
+table.newuser{
+
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+/* End New User */
+
+/* Begin Manage Users */
+
+table.userinfo{
+
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+/* End Manage Users */
+
+/* Begin Manage Blackouts */
+
+table.blackout{
+
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+/* End Manage Blackouts */
+
+/* Begin Manage Warning */
+
+table.warning{
+
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+/* End Manage Blackouts */
+
+/* Begin Browse Reservations */
+
+table.browse{
+
+	width: 650px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+/* End Browse Reservations */
+
+/* Begin View Reservations */
+
+table.viewreservation{
+
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+/* End View Reservation */
+
+/* Begin Confirm Reservations */
+
+table.confirmreservation{
+
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+/* End Confirm Reservation */
+
+/* Begin Edit Reservations */
+
+table.editreservation{
+
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+/* End Edit Reservation */
+
+/* Begin System Message Management */
+
+table.newmessage{
+
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+/* End System Message Management */
+
+/*!!!!!!!!!!!!!!! NEW !!!!!!!!!!!!!!*/
+
+div.centered{
+			
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+
+}
+
+div.error{
+
+	margin: 5px;
+	color: red;
+
+}

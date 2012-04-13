@@ -12,9 +12,9 @@ class Config{
 	const location = 'http://mine.ramielrowe.com/res_v2/';
 
 	const mysql_server = 'localhost';
-	const mysql_user = 'res';
-	const mysql_password = 'Pass1234!';
-	const mysql_database = 'res';
+	const mysql_user = 'user';
+	const mysql_password = 'password';
+	const mysql_database = 'database';
 	const mysql_table_prefix = 'res_';
 	
 	/**
